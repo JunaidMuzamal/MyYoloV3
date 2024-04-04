@@ -1,5 +1,5 @@
 tensorflow==2.15
-Keras==2.4.3
+Keras==2.15
 pillow
 matplotlib
 pandas
